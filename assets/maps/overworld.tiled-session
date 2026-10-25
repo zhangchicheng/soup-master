@@ -1,0 +1,68 @@
+{
+    "activeFile": "overworld.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "overworld.tmj": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 98,
+                "y": 33.25
+            }
+        },
+        "overworld.tmj#Lines": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "overworld.tmj#Objects (place on object layers)": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "overworld.tmj#Terrain and new roads (road-1 to road-6)": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "overworld.tmj#Terrain and roads": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "road-1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "road-2.tsx": {
+            "scaleInDock": 1
+        },
+        "road-3.tsx": {
+            "scaleInDock": 1
+        },
+        "road-4.tsx": {
+            "scaleInDock": 1
+        },
+        "road-5.tsx": {
+            "scaleInDock": 1
+        },
+        "road-6.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "overworld.tmj"
+    ],
+    "project": "overworld.tiled-project",
+    "recentFiles": [
+        "overworld.tmj"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
